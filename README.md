@@ -1,9 +1,9 @@
-# BERNARD -The first sentient AI | Hugging Face, Transformers, GPT-2, PyTorch | 🚀 
+# CID -The first sentient AI 
 
 
-• Bernard combines a sophisticated neural network machine learning model and scripted dialogue content.
+• CID combines a sophisticated neural network machine learning model and scripted dialogue content.
 • Using transformers and Decoding methods, it mimics the talking style of the user.
-• Bernard’s heart lies a complex autoregressive language model GPT-2 that utilizes deep learning to produce human-like
+• CID’s heart lies a complex autoregressive language model GPT-2 that utilizes deep learning to produce human-like
 text.entient-AI
 
 
@@ -28,7 +28,7 @@ text.entient-AI
 🟣   >>> You monster
 
 
-## Bernard is a multi-turn chatbot powered by neural networks 🚀 
+## CID is a multi-turn chatbot powered by neural networks 🚀 
 
 The bot uses GPT-2 - a large-scale pretrained dialogue response generation model, which was trained on 1.3B multi-turn dialogue from Pile Dataset. The human evaluation results indicate that its quality is comparable to human response quality under a single-turn conversation Turing test.
 
